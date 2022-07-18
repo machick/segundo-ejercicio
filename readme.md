@@ -1,4 +1,5 @@
 # Intrucciones 
+- proyecto creado con node
 - una vez clonado el repositorio correr en terminal `npm install`
 - en archivo `app.js` se encuentra variable `numbers` (linea 17) 
 - correr script con `npm start`
